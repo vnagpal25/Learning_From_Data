@@ -1,2 +1,2 @@
 # Learning_From_Data
-Learning From Data - Cal Tech Machine Learning Course
+Learning From Data - Cal Tech Introduction to Machine Learning Course
